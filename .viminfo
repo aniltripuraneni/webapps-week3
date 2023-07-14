@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:wq!
+|2,0,1689302011,,"wq!"
 :q!
 |2,0,1688630695,,"q!"
-:wq!
-|2,0,1688630661,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -27,24 +27,45 @@
 # Registers:
 
 # File marks:
-'0  1  0  /var/lib/jenkins/workspace/Jenkins-codedeploy/scripts/start_server.sh
-|4,48,1,0,1688630695,"/var/lib/jenkins/workspace/Jenkins-codedeploy/scripts/start_server.sh"
-'1  2  3  /var/lib/jenkins/workspace/Jenkins-codedeploy/scripts/install_dependencies.sh
-|4,49,2,3,1688630661,"/var/lib/jenkins/workspace/Jenkins-codedeploy/scripts/install_dependencies.sh"
+'0  68  0  ~/Petclinic/pom.xml
+|4,48,68,0,1689302011,"~/Petclinic/pom.xml"
+'1  1  0  /var/lib/jenkins/workspace/Jenkins-codedeploy/scripts/start_server.sh
+|4,49,1,0,1688630695,"/var/lib/jenkins/workspace/Jenkins-codedeploy/scripts/start_server.sh"
+'2  2  3  /var/lib/jenkins/workspace/Jenkins-codedeploy/scripts/install_dependencies.sh
+|4,50,2,3,1688630661,"/var/lib/jenkins/workspace/Jenkins-codedeploy/scripts/install_dependencies.sh"
 
 # Jumplist (newest first):
+-'  68  0  ~/Petclinic/pom.xml
+|4,39,68,0,1689302011,"~/Petclinic/pom.xml"
+-'  1  0  ~/Petclinic/pom.xml
+|4,39,1,0,1689301775,"~/Petclinic/pom.xml"
+-'  1  0  /var/lib/jenkins/workspace/Jenkins-codedeploy/scripts/start_server.sh
+|4,39,1,0,1688630695,"/var/lib/jenkins/workspace/Jenkins-codedeploy/scripts/start_server.sh"
 -'  1  0  /var/lib/jenkins/workspace/Jenkins-codedeploy/scripts/start_server.sh
 |4,39,1,0,1688630695,"/var/lib/jenkins/workspace/Jenkins-codedeploy/scripts/start_server.sh"
 -'  2  3  /var/lib/jenkins/workspace/Jenkins-codedeploy/scripts/install_dependencies.sh
 |4,39,2,3,1688630661,"/var/lib/jenkins/workspace/Jenkins-codedeploy/scripts/install_dependencies.sh"
 -'  2  3  /var/lib/jenkins/workspace/Jenkins-codedeploy/scripts/install_dependencies.sh
 |4,39,2,3,1688630661,"/var/lib/jenkins/workspace/Jenkins-codedeploy/scripts/install_dependencies.sh"
+-'  2  3  /var/lib/jenkins/workspace/Jenkins-codedeploy/scripts/install_dependencies.sh
+|4,39,2,3,1688630661,"/var/lib/jenkins/workspace/Jenkins-codedeploy/scripts/install_dependencies.sh"
+-'  2  3  /var/lib/jenkins/workspace/Jenkins-codedeploy/scripts/install_dependencies.sh
+|4,39,2,3,1688630661,"/var/lib/jenkins/workspace/Jenkins-codedeploy/scripts/install_dependencies.sh"
+-'  1  0  /var/lib/jenkins/workspace/Jenkins-codedeploy/scripts/install_dependencies.sh
+|4,39,1,0,1688630629,"/var/lib/jenkins/workspace/Jenkins-codedeploy/scripts/install_dependencies.sh"
+-'  1  0  /var/lib/jenkins/workspace/Jenkins-codedeploy/scripts/install_dependencies.sh
+|4,39,1,0,1688630629,"/var/lib/jenkins/workspace/Jenkins-codedeploy/scripts/install_dependencies.sh"
 -'  1  0  /var/lib/jenkins/workspace/Jenkins-codedeploy/scripts/install_dependencies.sh
 |4,39,1,0,1688630629,"/var/lib/jenkins/workspace/Jenkins-codedeploy/scripts/install_dependencies.sh"
 -'  1  0  /var/lib/jenkins/workspace/Jenkins-codedeploy/scripts/install_dependencies.sh
 |4,39,1,0,1688630629,"/var/lib/jenkins/workspace/Jenkins-codedeploy/scripts/install_dependencies.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/Petclinic/pom.xml
+	*	1689302009	0
+	"	68	0
+	^	68	0
 
 > /var/lib/jenkins/workspace/Jenkins-codedeploy/scripts/start_server.sh
 	*	1688630687	0
