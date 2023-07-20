@@ -237,3 +237,17 @@ ls
 git clone --bare https://git-codecommit.eu-central-1.amazonaws.com/v1/repos/webapp-week3
 git clone https://git-codecommit.eu-central-1.amazonaws.com/v1/repos/webapp-week3
 ls
+git push webapp-week3/
+git status
+git pull
+git --work-tree="." pull --allow-unrelated-histories
+git pull
+git merge
+ls
+git push webapp-week3/
+git pull
+git merge master
+git push webapp-week3/
+git force master
+git push force webapp-week3/
+git push origin master --force
